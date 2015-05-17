@@ -3,7 +3,7 @@
 ***Features.****
 
 Website displays movie name, it's poster image and release date. 
-Movie trailer is played owhen a user clicks on the movie poster image. 
+Movie trailer is played when a user clicks on the movie poster image. 
 
 ***Requirements:***
 Python 2.7 or later version installed.
